@@ -1,0 +1,194 @@
+html {
+    background-image: url(http://s1.picswalls.com/wallpapers/2014/01/22/hq-black-wallpaper_052248_13.jpg);
+    background-position: top;
+    background-repeat: repeat;
+
+}
+
+body {
+    font-family: "georgia";
+    font-size: 22px;
+    color: black;
+    padding: inherit;
+}
+
+h1 {
+    font-family: "georgia";
+    font-feature-settings: normal;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    color: deepskyblue;
+}
+
+h6 {
+    font-weight: 800;
+    color: palevioletred;
+    font-size: 21px;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: 20px;
+    font-variant: normal;
+    font-weight: 500;
+    text-align: center;
+    text-emphasis-color: cadetblue;
+    color: skyblue;
+
+
+}
+
+h2,
+h3,
+h5,
+h4 {
+    font-size: 30px;
+    font-family: "georgia";
+    text-align: center;
+    color: limegreen;
+    font-weight: 280;
+}
+
+img {
+    margin-left: 400px;
+    width: 500px;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    font-weight: 900;
+    padding: 5px 20px;
+    padding-bottom: 20px;
+
+}
+
+.collapse navbar-collaps {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    border-right: 1px solid #bbb;
+    text-decoration: none;
+    opacity: 1px;
+    color: wheat;
+    padding: 2px 15px;
+    padding-bottom: 5px;
+    background-color:white;
+}
+
+ul {
+    background-color:rosybrown;
+    text-decoration: none;
+    color: blue;
+    opacity: 0.75;
+    filter: alpha(opacity=10);
+    border-radius: 10px;
+    padding: 14px 25px;
+}
+
+.active {
+    text-decoration: none;
+   
+    padding: 4px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+}
+
+li a:hover:not(.active) {
+    text-decoration: none;
+    color: aliceblue;
+     background-color: lavenderblush;
+}
+
+embed {
+    margin-left: 170px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    padding-top: 20px;
+    margin-top: 50px;
+
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+form {
+    border: 1px solid;
+    font-family: Arial;
+}
+
+.container {
+    padding: 10px;
+    color: mediumpurple;
+}
+
+input[type=text], input[type=submit] {
+    width: 20%;
+    padding: 15px;
+    border: 1px solid  ;
+}
+
+input[type=checkbox] {
+    margin-top: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    margin-left: 500px;
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
+}
