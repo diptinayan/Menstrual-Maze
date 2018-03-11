@@ -1,1 +1,2 @@
 # Menstrual-Maze
+A website that describes all the health issues and impacts regarding menstruation in women. As society needs to be updated on such issues I really want to build a very* interactive website* which can solve all doubts about the periods in women. Young girls are the most common victim of the health hazard that leads to death in severe cases. It focuses on major areas like PMS, diet plan, sanitary napkins,hygiene and much more.
